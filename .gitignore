@@ -6,3 +6,10 @@ venv/
 env/
 .DS_Store
 Thumbs.db
+anaconda_projects/
+data/processed/data_featured.csv
+data/processed/model_results/
+data/processed/price_bin_edges.npy
+data/processed/train*.csv
+data/processed/test*.csv
+data/processed/val*.csv
