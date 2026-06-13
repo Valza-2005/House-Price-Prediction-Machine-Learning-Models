@@ -67,6 +67,16 @@ notebook-un pasardhes.
 Per notebook-et 1-4 dhe modelet KNN, Logistic Regression dhe Clustering,
 working directory duhet te jete dosja ku ndodhet notebook-u.
 
+## Krahasimi perfundimtar dhe raporti
+
+Skedari `notebooks/final_comparison.ipynb` eshte notebook-u kryesor per
+krahasimin perfundimtar te modeleve dhe sherben si raport i rezultateve te
+projektit. Ai mbledh rezultatet e modeleve te trajnuara, krahason performancen
+e tyre dhe paraqet perfundimet kryesore.
+
+Ky notebook duhet te ekzekutohet pasi te jene perfunduar notebook-et e
+perpunimit te te dhenave dhe te gjitha modelet ne `notebooks/models/`.
+
 ## Struktura
 
 ```text
